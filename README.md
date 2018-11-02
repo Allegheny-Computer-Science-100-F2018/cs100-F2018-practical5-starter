@@ -102,6 +102,23 @@ To run one of these commands, you must be in the main directory for this
 assignment where the `build.gradle` file is located. Then, you can type the
 command in the terminal and study the output.
 
+# Checks
+
+In addition to meeting all of the requirements outlined in the assignment sheet,
+your submission must pass the following checks:
+
+* practicalfive/RollAndSumDice.java:
+  * Features at least six single-line comments
+  * Features at least two multiple-line comments
+  * Contains at least four uses of a `println(` statement
+  * Runs correctly without crashing or producing an error
+  * Produces exactly four lines of output in the terminal
+  * Produces exactly one 'Sum' fragment in the terminal output
+  * Produces exactly three 'Face Value' fragments in the terminal output
+
+* GitHub repository:
+  * Contains five commits beyond the repository's starting number of commits
+
 ## Output
 
 Due to the random nature of the program's output, typing the command `gradle
